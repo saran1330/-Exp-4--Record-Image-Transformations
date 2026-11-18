@@ -206,7 +206,6 @@ plt.axis('off')
 
 
 ## Image Cropping:
-
 <img width="427" height="348" alt="image" src="https://github.com/user-attachments/assets/1f10dede-aaa3-49d6-86c8-9de0f4d27fc7" />
 
 
